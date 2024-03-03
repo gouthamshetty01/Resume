@@ -1,6 +1,12 @@
 # DAVALAKUNDA GOUTHAM SHETTY
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
+![IT](https://img.shields.io/badge/IT_Experience-3+Years-brightgreen)
+![IT](https://img.shields.io/badge/PowerApps_Experience-3+Years-blue)
+![IT](https://img.shields.io/badge/PowerAutomate_Experience-3+Years-blue)
+![IT](https://img.shields.io/badge/LogicApps_Experience-2+Years-blue)
+![IT](https://img.shields.io/badge/SharePoint_Experience-3+Years-blue)
+
+## Contact info
 
 8977633604, 8639948641 <br>
 <a href="gouthamshetty01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/davalakunda-goutham-shetty-695659166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " /></a>
