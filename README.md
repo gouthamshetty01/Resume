@@ -9,7 +9,7 @@
 ## Contact info
 
 8977633604, 8639948641 <br>
-<a href="gouthamshetty01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/davalakunda-goutham-shetty-695659166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " /></a>
+<a href="mailto:gouthamshetty01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/davalakunda-goutham-shetty-695659166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " /></a>
 
 ## Objective
 <p>      To work in a professional and competent atmosphere that enables me to cope with emerging trends and technologies to enhance the spectrum of my knowledge. To meet my goals by discharging my professional skills and doing smart work and also looking forward for an existing and challenging career.</p>
